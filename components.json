@@ -1,0 +1,101 @@
+[
+  {
+    "id": "loader-soft",
+    "name": "Yumuşak Yükleyici",
+    "file": "yumusak-yukleyici.html",
+    "description": "Buzlu cam halkalar ve yumuşak nabız efektiyle yükleme durumu.",
+    "tags": [
+      "Yükleme",
+      "Cam",
+      "Animasyon"
+    ]
+  },
+  {
+    "id": "loader-wave",
+    "name": "Dalga Yükleyici",
+    "file": "dalga-yukleyici.html",
+    "description": "Akışkan ritimde yükselip alçalan ışıklı dalgalar.",
+    "tags": [
+      "Yükleme",
+      "Dalga",
+      "Animasyon"
+    ]
+  },
+  {
+    "id": "switch-soft",
+    "name": "Yumuşak Anahtar",
+    "file": "yumusak-anahtar.html",
+    "description": "Yumuşak geçişli, dokunsal his veren cam anahtar.",
+    "tags": [
+      "Kontrol",
+      "Anahtar",
+      "Cam"
+    ]
+  },
+  {
+    "id": "slider-liquid",
+    "name": "Sıvı Slider",
+    "file": "sivi-slider.html",
+    "description": "Değer değiştikçe dolumu akan sıvı görünümlü kaydırıcı.",
+    "tags": [
+      "Kontrol",
+      "Slider",
+      "Sıvı"
+    ]
+  },
+  {
+    "id": "button-loading",
+    "name": "Yükleme Düğmesi",
+    "file": "yukleme-dugmesi.html",
+    "description": "Tıklanınca yükleniyor durumuna geçen etkileşimli düğme.",
+    "tags": [
+      "Düğme",
+      "Yükleme",
+      "Etkileşim"
+    ]
+  },
+  {
+    "id": "choices-soft",
+    "name": "Yumuşak Seçimler",
+    "file": "yumusak-secimler.html",
+    "description": "Tekli seçimler için yumuşak ışıklı seçenek kartları.",
+    "tags": [
+      "Seçim",
+      "Kart",
+      "Cam"
+    ]
+  },
+  {
+    "id": "tabs-flow",
+    "name": "Akan Sekmeler",
+    "file": "akan-sekmeler.html",
+    "description": "Aktif sekmeyi takip eden akışkan gösterge.",
+    "tags": [
+      "Navigasyon",
+      "Sekme",
+      "Animasyon"
+    ]
+  },
+  {
+    "id": "counter",
+    "name": "Sayaç",
+    "file": "sayac.html",
+    "description": "Artı ve eksi kontrolleriyle animasyonlu sayı sayacı.",
+    "tags": [
+      "Kontrol",
+      "Sayaç",
+      "Etkileşim"
+    ]
+  },
+  {
+    "id": "pull-refresh",
+    "name": "Çekip Yenile",
+    "file": "cekip-yenile.html",
+    "description": "Kartı aşağı çekerek yenileme hareketi demosu.",
+    "tags": [
+      "Hareket",
+      "Yenile",
+      "Mobil"
+    ]
+  }
+]
